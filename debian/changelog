@@ -1,3 +1,9 @@
+qtwebchannel-opensource-src (5.11.3-0ubports0) xenial; urgency=medium
+
+  * New upstream release.
+
+ -- Chris Clime <chris.clime@gmx.net>  Fri, 01 Nov 2019 17:49:15 +0100
+ 
 qtwebchannel-opensource-src (5.9.5-0ubports1) xenial; urgency=medium
 
   * New upstream release.
